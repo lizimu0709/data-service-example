@@ -5,7 +5,9 @@
     "method": "GET",
     "endpoint": "/avg_price_per_year",
     "data_source": {
-      "cluster_id": ${CLUSTER_ID}
+      "cluster_id": ${
+        1379661944646224715
+      }
     },
     "params": [],
     "settings": {
@@ -22,7 +24,9 @@
     "method": "GET",
     "endpoint": "/order_by_brand_year",
     "data_source": {
-      "cluster_id": ${CLUSTER_ID}
+      "cluster_id": ${
+        1379661944646224715
+      }
     },
     "params": [
       {
@@ -46,7 +50,9 @@
     "method": "GET",
     "endpoint": "/total_order_per_year",
     "data_source": {
-      "cluster_id": ${CLUSTER_ID}
+      "cluster_id": ${
+        1379661944646224715
+      }
     },
     "params": [],
     "settings": {
@@ -63,7 +69,9 @@
     "method": "GET",
     "endpoint": "/price_by_brand_year",
     "data_source": {
-      "cluster_id": ${CLUSTER_ID}
+      "cluster_id": ${
+        1379661944646224715
+      }
     },
     "params": [
       {
