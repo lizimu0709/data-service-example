@@ -1,5 +1,5 @@
 {
-  "app_id": "${dataapp-QAUAPepJ}",
-  "app_name": "data-service-example",
+  "app_id": "dataapp-QAUAPepJ",
+  "app_name": "Tidb demo",
   "app_type": "dataapi"
 }
